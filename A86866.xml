@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An hvmble remonstrnce [sic] to the Kings most Excellent Majesty, in vindication of the honourable Isaak Pennington, Lord Major of the honourable city of London, Alderman Foulkes, Captaine Venne, Captaine Manwaring, whom His Majeste desires to be delivered to custody, to answer an accusation of treason against them. Desiring that His Majesty would make them no let to his returne to his Parliament nor hinder the accommodation of peace.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86866</idno>
+            <idno type="STC">Wing H3626</idno>
+            <idno type="STC">Thomason E85_2</idno>
+            <idno type="STC">ESTC R16498</idno>
+            <idno type="EEBO-CITATION">99860044</idno>
+            <idno type="PROQUEST">99860044</idno>
+            <idno type="VID">112151</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86866)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112151)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E85[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An hvmble remonstrnce [sic] to the Kings most Excellent Majesty, in vindication of the honourable Isaak Pennington, Lord Major of the honourable city of London, Alderman Foulkes, Captaine Venne, Captaine Manwaring, whom His Majeste desires to be delivered to custody, to answer an accusation of treason against them. Desiring that His Majesty would make them no let to his returne to his Parliament nor hinder the accommodation of peace.</title>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLIII. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 14 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Foulkes, --  Alderman.</term>
+               <term>Penington, Isaac, --  Sir, 1587?-1660 --  Early works to 1800.</term>
+               <term>Venn, John, 1586-1650 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112151:1" rendition="simple:additions"/>
+            <p>AN HVMBLE REMONSTRNCE TO THE Kings moſt Excellent Majeſty, in vindication of
+<list>
+                  <item>The honourable <hi>Iſaak Pennington,</hi> Lord Major of the honourable City of London,</item>
+                  <item>Alderman <hi>Foulkes,</hi>
+                  </item>
+                  <item>Captaine <hi>Venne,</hi>
+                  </item>
+                  <item>Captaine <hi>Manwaring,</hi>
+                  </item>
+               </list>
+Whom his Majeſte deſires to be delivered to cuſtody, to anſwer an accuſation of treaſon againſt them.</p>
+            <p>Deſiring that His Majeſty would make them no let to his returne to his Parliament nor hinder the ac<g ref="char:EOLhyphen"/>commodation of peace.</p>
+            <p>LONDON, Printed for <hi>T. Wright.</hi> MDCXLIII.</p>
+            <pb facs="tcp:112151:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:112151:2"/>
+            <head>An humble Remonſtrance to the Kings moſt Excellent Majeſty.</head>
+            <opener>
+               <salute>Moſt gratious Soveraigne,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>Hough warlik glory doth ſo much faſten the eies of ſome about your ſacred Majeſty upon her reputation, that as</hi> (Ambroſe <hi>ſaith) they think fortune to be preleall, and to belong only to the field,</hi> Amb. offic. lib. 1 39. As thoſe did, who perſwaded King <hi>Antiochus</hi> to raiſe forces againſt Zion, to deſtroy the City, who therefore rayſed an Army of an hundred thouſand footmen, and two thouſand horſemen, and thirty two Elephants, inſomuch that the Sunne ſhining upon the Armor and golden Shields, the moun<g ref="char:EOLhyphen"/>taines gliſtered therewith, and gave lights as lamps of fire; what was the event? when he thought to conquer by his army, he con<g ref="char:EOLhyphen"/>tracted a covenant of peace with them; 1. <hi>Macc.</hi> 16.</p>
+            <p>Surely your beſt ſubjects had rather ſee you peaceably in your height of glory, ſitting in your royall throne with your Parlia<g ref="char:EOLhyphen"/>ment, in that ſplender and glory, which would protect your ſacred perſon, crowne and dignity, from thoſe many dangers to which you are now expoſed by being ſeperated from them; from your antient Court, from your City of ſafety, with ſo ma<g ref="char:EOLhyphen"/>ny Papiſts and Popiſh officers about you, with ſo many ſoul<g ref="char:EOLhyphen"/>diers, Commanders under forreine Princes neere you; pardon us to ſpeake (dread Soveraigne) you are neere and deere unto us, you are our life and the breath of our noſtrils: It is dangerous both to
+<pb n="2" facs="tcp:112151:3"/>
+you and us, to have ſo many yong raw heads, great Malignants, and dangerous Cavaliers about you, and your ſelfe at a diſtance from your Parliament. <hi>Ennius</hi> an antient Romane ſaith well, <hi>moribus antiquis res ſtat Romana viriſque, old manners and old men uphold Rome; To whom</hi> Auguſtin <hi>doth agree with</hi> T<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly, <hi>that it was ſpoken as out of an Oracle for neither the men unleſſe the City had had ſuch manners, nor the manners unleſſe the City had ſuch men, could either have founded or preſerved a Commonwealth of that mag<g ref="char:EOLhyphen"/>nitude, juſtice, and empire. And therefore before theſe our dayes the predeceſſors conditions did ſtill make the ſucceſſors excell, and the wor<g ref="char:EOLhyphen"/>thy men ſtill kept up the priviledges of honourable antiquity.</hi> Aguſt. Civi. Dei. lib. 2. ch. 21.</p>
+            <p>In your two Houſes of Parliament, moſt gratious Soveraigne, is your beſt ſafety, there is the fountaine of law and manners, there are your Antients, and Worthies, to determine of that law; there is your higheſt Court of juſtice, your great Councell, your royall throne in the higheſt ſpheare of magnitude, there are thoſe ſtatutes which your and our predeceſſors eſtabliſhed, by which we excell other nations. In a word, there are thoſe good and happy lawes that makes you our King, and we your ſubjects: Oh do not think moſt royall King, that there can be ſuch ſafety in your Army, as with your Parliament; guilt hopes, crackt fortunes, deſperat con<g ref="char:EOLhyphen"/>ditions, may abuſe your goodneſſe there, which can have no hope here: It was this ſervice that the Signior Embaſſador from Spaine <hi>(Gundamor</hi> that Arch-plotter of miſchiefe boaſted before the Councell when he returned) that he had done, <hi>One of the prince<g ref="char:EOLhyphen"/>pall ſervices (ſaith he to the Popes Nuntio, in the open Councell) in working ſuch a diſlike betwixt the King, and the lower Houſe, by the endeavour of that honourable Earle and admirable Engine a ſure ſer<g ref="char:EOLhyphen"/>vant to us and the Catholike Cauſe whilſt he lived) as the King</hi> (ſpea<g ref="char:EOLhyphen"/>king of King <hi>Iames</hi> your royall father of happy memory) <hi>will never endure Parliament againe, but rather ſuffer abſolute want,</hi>
+               <pb n="4" facs="tcp:112151:3"/>
+               <hi>then receive conditionall relief from his ſubjects, beſides the matter was ſo cunningly carried the laſt Parliament, that as in the Powder plot t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e fact effected ſhould have been imputed to the Puritanes (the greateſt zelots of the Calvinian ſect) ſo the propoſition which dam<g ref="char:EOLhyphen"/>med up the proceedings of this Parliament, how ſoever they were invent<g ref="char:EOLhyphen"/>ed by Romane Catholicks, and by them intended to diſturb that Seſsion yet were propounded infavour of the Puritanes, as if they had been hammered in their forge</hi> (as is expreſſed in <hi>vox populi</hi> more at large) Conſider moſt gratious King, how dangerous it is to hear<g ref="char:EOLhyphen"/>ken to ſuch Incendiaries of miſchiefs, what was the end of this but intended for the overthrow of all Peace, Church, and State as the Inquiſitor himſelf ſaid: how (ſaid he) <hi>if this act of the Kings wherein he is moſt earneſt and conſtant ſhould ſo farre thrive as it ſhould effect a perfect union both in the Church, and Common<g ref="char:EOLhyphen"/>wealth, I tell you in my conceit it would be a great blow to us, if by a ge<g ref="char:EOLhyphen"/>nerall meeting Peace ſhould be concluded, at which we ſee their poli<g ref="char:EOLhyphen"/>tick King aymes.</hi>
+            </p>
+            <p>Whereas it is your Royall will, and pleaſure to require that the Honourable <hi>Iſaac Pennington</hi> Lord Major of the Honourable City of <hi>London,</hi> Captaine <hi>Venne,</hi> Maſter <hi>Foulks,</hi> Captaine <hi>Manwaring,</hi> ſhould be apprehended and committed to cuſtody to proceed a<g ref="char:EOLhyphen"/>gainſt them as guilty of high treaſon, before you will return to your Parliament: May it pleaſe your moſt excellent Majeſty to think on them as innocent, and cleare from all ſuſpition of treaſon or treachery againſt your Sacred Majeſty, and more loyal, and faith<g ref="char:EOLhyphen"/>full ſubjects in doint their duty to you in obedience to the High Court of Parliament, then thoſe that ſmother their hypocriſie in Martiall attendance on you againſt your Parliament and Metropo<g ref="char:EOLhyphen"/>litane City.</p>
+            <p n="1">1 They have been dutifull ſubjects to you in obeying the Ordi<g ref="char:EOLhyphen"/>nances of your Parliament, made for your Honour, and for the ſafety, and good of the Kingdomes concerning which King <hi>Iames</hi>
+               <pb n="4" facs="tcp:112151:4"/>
+your Royall Father ſaid in the upper Houſe of Parliament, in the preſence of the Lords, and Commons together before him, <hi>I pro<g ref="char:EOLhyphen"/>teſt</hi> (ſaid he) <hi>that your welfare ſhall ever be my greateſt care and contentment, and that I am a ſervant it is moſt true, that as I am Head and Governour of all the people in my Dominions who are my naturall vaſſalls and ſubjects, conſidering them in num<g ref="char:EOLhyphen"/>ber and diſtinct ranks; ſo if we will take the whole people as one bo<g ref="char:EOLhyphen"/>dy and maſſe, then as the Head is ordained for the body, and not the body for the Head: ſo muſt a righteous King know himſelf to be or<g ref="char:EOLhyphen"/>dained for his people, and not his people for him, for although a Knig and people be</hi> Relata, <hi>yet can he be no King, if he want people and ſubjects. But there be many people in the world, that lack a Head, wherefore I will never be aſhamed to confeſſe it my principall Honour to be the great Servant of the Common wealth, and doe think the proſ<g ref="char:EOLhyphen"/>perity thereof, to be my greateſt felicity, &amp;c.</hi> At the beginning of <hi>Par<g ref="char:EOLhyphen"/>liament</hi> 1. <hi>Anno</hi> 1603 <hi>March</hi> 19. <hi>King Iames ſpeech printed by Robert Barker Printer to the Kings moſt excellent Majeſty.</hi> How much then did it concern theſe, and us all to perform our beſt and trueſt duty and allegiance to you and them, bringing thither our grievances, that by them the Law might be laid to the cauſe, as <hi>Lod Vives</hi> brings in <hi>Saluſt</hi> in his Warres of <hi>Cateline</hi> ſpeaking of the ancient Romanes he ſaith thus, <hi>The Law is a civill equity either eſtabliſhed in literall Lawes or inſtilled into the manner by verball inſtructions. Good is the fountaine, moderatour and reformer of all Law all which is done by the prudence of the great Iudges of the Law adapting it ſelf to the nature of the cauſe, and laying the Law to the cauſe, not the cauſe to the Law.</hi> Auguſt. Civit. Dei, L. Viv. lib. 2. cap. 17. Who are theſe great Judges but the Parliament?</p>
+            <p n="2">2. They have been dutifull ſubjects to you in oppoſing the ene<g ref="char:EOLhyphen"/>mies of your Crown and dignity, which are of many ſorts.</p>
+            <p n="1">1 The Papiſts, theſe your faithfull ſubjects have; and daily ſeek by all opportunity to find out, &amp; prevent their damnable ſedition:
+<pb n="5" facs="tcp:112151:4"/>
+when was there ever a Parliament, againſt which they were not ever great diſturbers, &amp; ſecret underminers, as of that of the Gun<g ref="char:EOLhyphen"/>powder treaſon. <hi>It cannot,</hi> ſaith King <hi>Iames, be enough admired, the horrible, and fearfull cruelty of their device, which was not onely for the deſtruction of my perſon, nor of my wife and poſterity alone, but of the whole body, of the ſtate in generall, wherein neither ſhould have been ſpared, or diſtinction made of young nor old, of great nor of ſmall of man, nor of woman, the whole Nobility, the whole Reverend Clergy, moſt part of the good Preachers and the moſt part of the Knights and Gentry, yea, and if that any in this ſociety were favourers of their pro<g ref="char:EOLhyphen"/>feſsion, they ſhould all have gone one way, the whole Iudges of the Land the moſt part of the Lawyers and the whole Clerkes: and as the wretch himſelf which is in the Tower doth confeſſe it was purpoſely deviſed by them, and concluded to be done in this Houſe that where the cru<g ref="char:EOLhyphen"/>ell Lawes (as they ſaid) were made againſt their Religion, both place, and perſons ſhould all be deſtroyed, and blown up at once. King Iames ſpeech laſt Seſſ. Parliament.</hi> 1605.</p>
+            <p>Theſe be the Incendiaries againſt whom this Land is provided with ſo many good and wholſome Lawes. How many Emperours Kings, and Princes, have they depoſed, murdered, and poyſoned from time to time, yea the Popes themſelves, how few is there of them that die a naturall death in their beds? but againſt Pro<g ref="char:EOLhyphen"/>teſtant Princes. Churches, and Kingdomes, they never ceaſe to conſpire all they can invent to overthrow and bring them to ruine.</p>
+            <p>Theſe indeed they have been carefull to find out, and to bring to condigne puniſhment, or at leaſt to diſable them of doing miſchief witneſſe ſome of their quarters on the gates, others in ſeverall pri<g ref="char:EOLhyphen"/>ſons, though ſome cannot yet be diſcovered.</p>
+            <p n="2">2 To puniſh thoſe that make, or cauſe the continuance of the ſeparation between you, and your Parliament, divers of the Cler<g ref="char:EOLhyphen"/>gy that labour to make the breach greater, by railing againſt ſuch things, as nothing at all concern them, alſo all ſuch who are of evil
+<pb n="6" facs="tcp:112151:5"/>
+life and converſation, not fit to meddle with matters of State. 2 Many Printers who do accuſtome themſelves to fill the Kingdom with ſcandalous lying Pamphlets. 3 Thoſe who cauſe any tumults in Churches. 4 Such as have ſpoken words, and done actions that may give occaſion of ſuſpition to judge them for ſuch who are malignants and hinderers of accommodation between your Ma<g ref="char:EOLhyphen"/>jeſty, and the High Court of Parliament.</p>
+            <p n="3">3 All manner of traitours whatſoever.</p>
+            <p n="4">4 All kind of offenders according to Law, &amp;c.</p>
+            <p n="3">3 They have been dutifull ſubjects to you in their ſenſe and fel<g ref="char:EOLhyphen"/>low feeling of the miſerable effects of the ſame condition of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and their readineſſe to help them: Dread Soveraigne, they are knowne to have been ſo active herein, that they have neglected their own private profit, the care of their own houſes and families, to promote and help forward all the aſſiſtance they can poſſible in each of their ſeverall places. 1 They have beene earneſt ſuitours to God in their behalf by prayer which is a thriving way to help a nation, as <hi>David</hi> prayed for the redemption of Iſraell, <hi>O that the ſalvation of Iſraell, were come out of Zion, when God bringeth back the Captivity of his people, Iacob ſhall rejoyce and Iſraell ſhall be glad.</hi> Pſal. 53. 6. this he prayed becauſe that <hi>the eyes of the Lord are open upon the righteous, and his eares are open to their cry.</hi> Pſal. 34.15.</p>
+            <p>So theſe are and have been earneſt ſuitours to God for the poore diſtreſſed Kingdome of <hi>Ireland.</hi> 2. They to expreſſe that theſe their prayers have not been diſſembling, (like many who are ready to tell us a fine tale of diſſimulation, commiſerating the bleeding condition of the Proteſtant Church, when indeed and truth, they rejoyce to ſee it, &amp; labour to make the breach the great<g ref="char:EOLhyphen"/>er, witneſſe that ſcandalous Pamphlet entituled the Cities com<g ref="char:EOLhyphen"/>plaint, ſeconded with another entituled the complaint of the Cler<g ref="char:EOLhyphen"/>gy, written by a profeſſed Papiſt, (calling us in plain tearmes mon<g ref="char:EOLhyphen"/>ſtrous heretickes but theſe dread Sovereigne,) are not ſuch they
+<pb facs="tcp:112151:5"/>
+have not bin only ready to pray for them, but they have alſo bin alwayes ready to pay to help them, they have gi<g ref="char:EOLhyphen"/>ven largly to relieve them, according to each of their e<g ref="char:EOLhyphen"/>ſtates; hearing that poor Kingdom groaning under that burthen of popiſh cruelty, to which they firſt thought to have ſubjected us, as <hi>Troy</hi> was by the treacherous ſediti<g ref="char:EOLhyphen"/>ons of <hi>L. Saturninus</hi> Tribune, <hi>C - Caeſar Servilus, Praetor,</hi> and <hi>M. Druſus, whence there aroſe not only civill ſlaughters, but they brake openly out into confederate war, which brought all Italy into moſt miſerable and deſperate extreamities, whence it is ſtrange to record what fields were pitched, what blood ſhed, and what murder ſtuck upon the face of all Italy, as far as the Romanes had any power or ſeigniority. Auguſti civet Dei. lib.</hi> 3. <hi>chap.</hi> 26. And even in ſuch a miſerable condition is <hi>Ireland</hi> now in, and ſuch a condition had we bin in ere now, had not almighty God kept us: theſe men have bin ready and willing to relieve and help this poor Kingdom of <hi>Ireland,</hi> are they to be blamed for this, God forbid.</p>
+            <p n="4">4. They have bin very active and ſtudious to preſerve your Kingdom from plots and conſpiracies, eſpecially your Metropollitan City of <hi>London.</hi> 1. They have found out many inſendaries of miſchief, and have found quantities of ſhot, powder, arms, &amp;c. about their houſes. 2. They have cauſed their dangerous intents to be diſcove<g ref="char:EOLhyphen"/>red, to murder ſome of the Members of your honorable Houſes of Parliament; to bring forreign forces from be<g ref="char:EOLhyphen"/>yond the Seas, to ſpoile the City if not to blow it up; to reſcue Delinquents from the hands of juſtice. 3. They have cauſed the City to be ſtrongly guarded and prepa<g ref="char:EOLhyphen"/>red in times of greateſt danger<hi>:</hi> At ſuch times (notwith<g ref="char:EOLhyphen"/>ſtanding all their care) ſuch hath bin the boldneſſe of the Papiſts in the very hart of the City, theat the Prieſts and Fryers have bin taken notice of to revile them, and call
+<pb facs="tcp:112151:6"/>
+them Round-head fellowes, &amp;c. We have had women with their beads in their hands open, and their Crucifix in their breaſts; and the Papiſts have called after the trai<g ref="char:EOLhyphen"/>ned bands, and bid them go like a company of traytors and Rebels, or to that effect; certainly if Your Majeſty would be pleaſed to cleer theſe men, and call for the execution of juſtice againſt the Prieſts and Jeſuits, and ſubdue the Pa<g ref="char:EOLhyphen"/>piſts, it would procure more ſafety to your Majeſties per<g ref="char:EOLhyphen"/>ſon, Crown and dignity, which was indeed a great rea<g ref="char:EOLhyphen"/>ſon of the making of thoſe Laws againſt them; as once an Embaſſador from Spain ſaid at his return home of <hi>England,</hi> when he had made a ſpeech before the Councell there; I have bent my ſelfe ſaith he to weaken them (namely <hi>England)</hi> and ſtrengthen us (namely <hi>Spain)</hi> and in all theſe have advanced the Catholique cauſe, but eſ<g ref="char:EOLhyphen"/>pecially in procuring favours for all ſuch as favour that ſide, and croſſing the other by all meanes: and this I pra<g ref="char:EOLhyphen"/>ctiſe my ſelf, and give out to be generally practiſed by o<g ref="char:EOLhyphen"/>thers, that whatſoever ſueceſſe I find, I ſtill boaſt of the Victory, which I do to diſharten their hearts, to make them ſuſpitious one of another, eſpecially between their Prince and their beſt ſtates-men; and to keep our own in courage, who by this meanes increaſe, otherwiſe would be in dan<g ref="char:EOLhyphen"/>ger to decay: <hi>Gundemour's</hi> ſpeech in <hi>vox populi,</hi> printed <hi>Anno</hi> 1620. Surely your faithfull Subjects have not been Traytors or diſloyall Subjects; in diſcovering and preventing theſe plots and dangerous deſignes, which the Papiſts and their Agents contrived againſt us.</p>
+            <p>May it therefore pleaſe your moſt Excellent Majeſty to conſider of the lives and converſation of theſe men, and you ſhall we hope find them ſuch as your Kingdom can<g ref="char:EOLhyphen"/>not afford you, (nor any Kingdom in the world their Prince) more truely loyall and faithfull ſubjects then they, and that really from the very ſentor of their hearts, not in
+<pb facs="tcp:112151:6"/>
+ſmothered Hypocriſies, as it is to be feared too many now neer your Majeſty do; who when it ſhall pleaſe God that there ſhall be an accommodation of peace between You and your two Houſes of Parliament, will for ought we know be as ready to ſerve a Forreign Prince againſt you, as now they are to encourage you againſt your <hi>Parliament.</hi>
+            </p>
+            <p n="1">1. Theſe men are none of them Seperatiſts, but do con<g ref="char:EOLhyphen"/>ſtantly repair to the <hi>church</hi> with the congregation, though they do deſire that your Majeſty would be pleaſ'd to joyn with your Parliament, in the calling of an Aſſembly of Divines for the ſetling of a thorough Reformation.</p>
+            <p n="2">2. They are true proteſtants of the Church of <hi>England,</hi> and enemies of Popery and traditions of men, &amp; deſire to advance the kingdom of <hi>Jeſus Chriſt,</hi> the propagation of the goſpell and the peace of the Church and State.</p>
+            <p n="3">3. They are men fearing God, and living in an honeſt &amp; religious way, not given either to curſing, ſwearing, drink<g ref="char:EOLhyphen"/>ing, cozening, uſury, gaming, &amp;c. but honeſt godly men, ſuch as are examples to thoſe about them. 4. They are men who were never tainted with, or tax'd for any crime in violation of the law in any point. 5. They were, &amp; are forward &amp; willing to take the oath of Alegiance and Su<g ref="char:EOLhyphen"/>premacy, &amp; to bind themſelves in the ſtrongeſt tye that can be to your Ma: in duty and obedience, becauſe they know what the duty of a ſubject is to his King; and there<g ref="char:EOLhyphen"/>fore with their eſtates &amp; lives are ready to defend &amp; main<g ref="char:EOLhyphen"/>tain the honor of your Crown and dignity: Moſt Royall Soveraign; we do humb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y emplore your Ma: to return to your high Court of Par<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iament, and hearken not to thoſe <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of mi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chief, that labour to work an ill affectio<g ref="char:cmbAbbrStroke">̄</g> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> them: or to ſuch your truly loyall ſub<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, it's a <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb facs="tcp:112151:7" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:112151:7"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:112151:8"/>
+ſo to ſettle your hearts eaſe in this <hi>Jordan,</hi> it would cure all the diſeaſes in your Kingdom; <hi>We do obſerve ſaith the fa<g ref="char:EOLhyphen"/>ther, that an acquiring councell, honeſty of life, the prerogative of vertue, the uſe of good will, the grace of frugality doth much availe, for who looketh for cleer water in a pond of mud, who ſetcheth water to drink out of troubl'd pits, &amp;c. how can there be place to councell, where there is no place to peace and tranqui<g ref="char:EOLhyphen"/>lity. Ambroſe. Chriſoſt. Hel lib.</hi> 2 <hi>cap.</hi> 12.</p>
+            <p>With your great Counſell the Parliament, you will find the fountain of law and honeſty, the prerogative of vertue, the good will and loyall ſubjection of all your people, preſented to you in the Houſe of Commons, the repreſentative Body of the Kingdome, and a Councell that will make you greater then any of your predeceſſors, by their wiſdomes and care through the bleſſing of Al<g ref="char:EOLhyphen"/>mighty God; there is the fountain which your preſence will ſet open, for <hi>England, Scotland</hi> and poor diſtreſſed <hi>Ire<g ref="char:EOLhyphen"/>land</hi> to waſh in, that they may be healed: O how doth poor diſtreſſed <hi>Ireland</hi> bleed with the rebellion of the pa<g ref="char:EOLhyphen"/>piſts, and how doth this Kingdom of <hi>England</hi> mourn in the month of war, the joy and only hopes of the Papiſts here: O moſt gracious King return to your Parliament, and we doubt not but theſe wofull tragedies will end; we ſhould haue all our grievances relieved if we did but en<g ref="char:EOLhyphen"/>joy your preſence; for whereas now your ſacred perſon is at ſo great a diſtance from your Parliament, that what they do here is much cumbred with prevention of many dangers and evills, and being done, meets with many ob<g ref="char:EOLhyphen"/>ſticles before it can have admittance to your Majeſties preſence; and how many and how great enemies it findes there experience ſhews; whereas, was your preſence dai<g ref="char:EOLhyphen"/>ly with them, they would counſell and adviſe with you in ſuch a way, as you would ſoon comfort all our peo<g ref="char:EOLhyphen"/>ple.</p>
+            <pb facs="tcp:112151:8"/>
+            <p n="1">1. By paſſing ſuch Bills as they have made ready for you, for the clearing of divers great matters of difference both in Church and State.</p>
+            <p n="2">2. By putting an end to War, and contracting an in<g ref="char:EOLhyphen"/>ſeperable union betweene you and your people, which would produce many great and happy bleſſings for all your Kingdoms and people. Firſt, this Kingdom would then diſcourage thoſe hopes which now the enemies hath at home and abroad. Secondly, it would diſcourage the Rebels in <hi>Ireland</hi> to ſee us ſetled in Peace. Thirdly, It would give us an opportunity to help the diſtreſſed Pro<g ref="char:EOLhyphen"/>teſtants there, by ſparing but part of that great expence, and ſending part of our Souldiers to them (which are rai<g ref="char:EOLhyphen"/>ſed in a ſtrange and dangerous War in our own bowells) to them. Fourthly, It would ſettle your Kingdome of <hi>Scotland,</hi> and free them alſo from many fears and jealou<g ref="char:EOLhyphen"/>ſies wherewith they are now repleniſhed.</p>
+            <p n="3">3. By bringing Delinquents, and ſuch as have beene the grand cauſer of theſe diſtractions to puniſhment, which would be a means to prevent all ſuch future diſaſ<g ref="char:EOLhyphen"/>ters, and ſettle you, your Parliament and Kingdom in a ſweet and happy Peace and union.</p>
+            <p n="4">4. By ſetling a conſtant Trade, which now is diſtra<g ref="char:EOLhyphen"/>cted through all your Kingdoms; the increaſe of Trade, advanceth a Kingdome to great happineſſe, and is atten<g ref="char:EOLhyphen"/>ded with many comforts, both to the King and people. Firſt, It would repleniſh your Majeſties Coffers, both the Cuſtome and Tolledge therof. Secondly, It would make your poor Subjects that are Tradſemen, the more able to pay and furniſh the Nobility and Gentry with ſuch Mo<g ref="char:EOLhyphen"/>ney, as their lands and places require. Thirdly, It would enrich the eſtates of all your poore Subjects. Fourthly, It would fill the Kingdoms with both Money and Com<g ref="char:EOLhyphen"/>modities.
+<pb facs="tcp:112151:9"/>
+Fiftly, It would make you great, by being a King over ſuch a plentifull and proſperous Country; whereas now all is in a contrary way, by reaſon of your abſence from us, and the maintenance of two Armies in the bowels of the Kingdom.</p>
+            <p n="5">5. Hearing all our grievances in your Houſes of Par<g ref="char:EOLhyphen"/>liament, the proper place of helping us.</p>
+            <p n="6">6. By enjoying your preſence, which to us is above all the reſt; That there is not a ſettlement, and an happy Re<g ref="char:EOLhyphen"/>formation amongſt us; it is a great grief to us, Wars are a horrible trouble, that the Incendiaries of miſchiefe are not ſtopped, encreaſeth our miſery; want of Peace, is want of comfort, and want of Trade, takes away our livelyhood, and our grievances are not relieved, but that your Pre<g ref="char:EOLhyphen"/>ſence is kept from us; This agravates all the former miſe<g ref="char:EOLhyphen"/>ries, were we relieved in all, and you at ſuch a diſtance from us and your Parliament, it were too little to comfort us; but do you but return, and then all our miſery is en<g ref="char:EOLhyphen"/>ded, let us but enjoy the Preſence of your ſacred Majeſty, and then our joy will be full.</p>
+            <p>We are your humble and loyall Subjects, and we are deeply wounded to finde miſ-apprehenſions of the love and loyalty of this your City, as if they ſhould do any thing to give you cauſe of fear, or cauſe you to ſuſpect there loyalty; ſhould your Majeſty return to your Par<g ref="char:EOLhyphen"/>liament, and think better of them, you would find them better Subjects, and prevent that deſolation and deſtructi<g ref="char:EOLhyphen"/>on, which doth now threaten your ſacred Majeſty, and the whole Kingdome; and you would finde more fidelity in your Parliament, and from us, than with them whoſe hy<g ref="char:EOLhyphen"/>pocriſie is ſmothered in our diſtractions.</p>
+            <p>And to cleer the innocency of our hearts, we do proteſt before Almighty God, as we hope for a bleſſing on us and
+<pb facs="tcp:112151:9"/>
+ours, That we are no ways conſcious of any diſloyalty, and abhor all thoughts thereof; who are ready to make good their Proteſtation, even to the laſt drop of their dea<g ref="char:EOLhyphen"/>reſt blouds, and that with as much Loyalty, love, and du<g ref="char:EOLhyphen"/>ty, as ever Citizens expreſſed towards your Majeſty, or any of your Royall Progenitors in their greateſt glory.</p>
+            <p>And we would be heartily glad, that Armies of our Kingdoms might ceaſe to devoure our own bowels; and part of them be tranſported with their meanes to relieve the miſerable oppreſſed Church of <hi>Ireland,</hi> from the cru<g ref="char:EOLhyphen"/>elty of the Papiſt there; and two parts of them be tranſ<g ref="char:EOLhyphen"/>ported to redeem the Palatinate for your royall Siſter and her Poſterity, that ſhe and they might again be ſetled in their former honor; and that the reſt may remain at home to defend our own Kingdom: That the Honor and ſafety of your Crown and dignity may be ſecured, your honor advanced, the propagation of the Goſpel eſtabliſhed, and the Church and Kingdom ſetled in Peace, to Gods glory, your Majeſties Honor, and your and our happineſſe, to the memory of everlaſting Poſterity.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
